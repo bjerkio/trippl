@@ -1,4 +1,4 @@
-![Tripletex Golang Client][banner]
+![Trippl][banner]
 
 ![Build & Deploy][build-badge]
 [![Total alerts][lgtm-badge]][lgtm-alerts]

@@ -13,14 +13,12 @@ please wait for the supported, stable release.
 
 **Want to help out? We have a [v1 milestone](https://github.com/bjerkio/trippl/milestone/1)! :tada:**
 
-Trippl helps synchronize projects and time tracking between Tripletex and Toggl.
-Tripletex is a Norwegian accounting software, that features both time tracking,
-project management and CRM. Toggl is a time tracking software. The motivation behind
-this product in most cases, Tripletex is has a good time tracking system, but integrating
-it to everything is a big hurdle. Bjerk, the company behind Trippl, uses tracks projects
-in Atlassian Jira, and uses a module to track hours from Jira into Toggl. Toggl has become
-one of the most popular choices for time tracking, not only in Norway, but internationally.
-Since we love Tripletex and Toggl, we wanted to combine it.
+Trippl makes synchronize projects and time tracking between Tripletex and Toggl easy. Tripletex is
+a Norwegian accounting software, that features both time tracking, project management and CRM.
+Toggl is a time tracking software. The motivation behind this product is expand time
+tracking for businesses using Tripletex.
+
+Toggl has become one of the most popular choices for time tracking, not only in Norway, but internationally. Since we love Tripletex and Toggl, we wanted to combine it.
 
 Our intentions are to release this under Apache 2.0 License, but also support a hosted version,
 where you easily can sign up, enter your credit card, and pay a small amount every month to
